@@ -1,0 +1,23 @@
+US International keyboard layout with Esperanto characters
+===
+
+Now you can type Esperanto characters using a stardard US International keyboard layout on Windows without the need to install any other application.
+
+Characters added:
+
+```
+^ + C = Ĉ
+^ + G = +G
+^ + J = Ĵ
+^ + H = Ĥ
+^ + S = Ŝ
+^ + U = Û
+```
+
+It's free and open-source.
+
+Install
+===
+Download the file from the [release page](https://github.com/shayani/US-International-Esperanto-Keyboard/releases), unzip it and run `setup.exe`.
+
+Profitu!
